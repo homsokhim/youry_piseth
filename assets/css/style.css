@@ -2956,13 +2956,13 @@ hr {
 }
 
 .Our-story-area .story-caption .story-details {
-    padding-left: 150px;
+    padding-left: 80px;
     padding-right: 24px
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .Our-story-area .story-caption .story-details {
-        padding-left: 121px;
+        padding-left: 100px;
         padding-right: 24px
     }
 }
